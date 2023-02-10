@@ -1,0 +1,11 @@
+# Calcular e armazenar ponstos de boliche
+
+Jogador()
+-criarJogador()
+-nome
+-pontos
+-adicionarPontos()
+
+# Descrever o que os objetos tem em comum
+
+Todos são meios de trnasporte, levam uma pessoa de um ponto A até um ponto B.
